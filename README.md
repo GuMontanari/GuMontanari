@@ -9,28 +9,18 @@
   <a href="https://www.linkedin.com/in/gustavo-montanari-644541218" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
-  <a href="https://www.youtube.com/@Duelixta" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" width=100 alt="youtube logo"  />
-  </a>
-  <a href="https://www.instagram.com/mntnr__/" target="_blank">
+  <a href="https://www.instagram.com/gumontanari1/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" height="25" alt="Instagram" />
   </a>
-  <a href="https://www.tiktok.com/@duelixta" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="TikTok"/>
-</a>
 </div>
 
 ###
 
-<h1 align="center">Eae rapaziada👋</h1>
+<h3 align="left"> Hi, my name is Gustavo and im 21 years old. </h3>
 
 ###
 
-<h3 align="left">👩‍💻 Olá, me chamo Gustavo e tenho atualmente 21 anos.<br> 👽 Hi, my name is Gustavo and im 21 years old. </h3>
-
-###
-
-<p align="left">Im from Minas Gerais, Brazil.<br>- 🔭 Right now on my second period of Software Engineering for PUC-Minas.<br>- 📚 Currently learning about Kotlin, aspiring to be a Android Dev.<br></p>
+<p align="left">Im from Minas Gerais, Brazil.<br> Right now on my second period of Software Engineering for PUC-Minas.<br>- Currently learning about Kotlin, aspiring to NOT be a dev.<br></p>
 
 ###
 
